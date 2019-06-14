@@ -14,7 +14,7 @@ body en postman
 ---
 
 ```
- {
+{
  book(id:"1001"){
  title 
  }
