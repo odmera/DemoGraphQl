@@ -6,12 +6,14 @@ https://medium.com/@vinod827/spring-boot-app-with-graphql-2dd62a9e5c3e
 
 # http://localhost:9002/rest/books
 
-# body en postman
+body en postman 
+---
+
+```
  {
  book(id:"1001"){
  title 
  }
- 
  allBooks{
  isn
  title
@@ -20,3 +22,4 @@ https://medium.com/@vinod827/spring-boot-app-with-graphql-2dd62a9e5c3e
  publishedDate
  }
 }
+```
