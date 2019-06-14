@@ -4,7 +4,11 @@ Link
 https://medium.com/@vinod827/spring-boot-app-with-graphql-2dd62a9e5c3e
 
 
-# http://localhost:9002/rest/books
+URI 
+---
+```
+http://localhost:9002/rest/books
+```
 
 body en postman 
 ---
